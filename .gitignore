@@ -1,0 +1,11 @@
+# Ignoră fișierul cu tokenul
+config.py
+
+# Ignoră fișierele temporare ale Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignoră fișiere de mediu virtual, dacă folosești
+venv/
+env/
